@@ -1,0 +1,24 @@
+{
+    "users": 
+    [
+        {
+            "name": "lam",
+            "password": "lam"
+        },
+        {
+            "name": "henry",
+            "password": "henry"
+        },
+        {
+            "name": "tom",
+            "password": "tom"
+        }
+    ],
+    "admins":
+    [
+        {
+            "name": "admin_lam",
+            "password": "admin_lam"
+        }
+    ]
+}
