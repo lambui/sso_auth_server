@@ -62,3 +62,5 @@ typings/
 
 #ssh keys
 .ssh
+
+private_properties.json
