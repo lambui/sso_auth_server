@@ -2,22 +2,22 @@
     "users": 
     [
         {
-            "name": "lam",
+            "username": "lam",
             "password": "lam"
         },
         {
-            "name": "henry",
+            "username": "henry",
             "password": "henry"
         },
         {
-            "name": "tom",
+            "username": "tom",
             "password": "tom"
         }
     ],
     "admins":
     [
         {
-            "name": "admin_lam",
+            "username": "admin_lam",
             "password": "admin_lam"
         }
     ]
